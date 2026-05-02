@@ -1,10 +1,5 @@
-# Action-Specific Guardrails
+# Action-Specific Guardrails: From Content Safety to Tool-Execution Governance in Agentic AI Systems
 
-**From Content Safety to Tool-Execution Governance in Agentic AI Systems**
-
-This repository supports the article:
-
-> **Action-Specific Guardrails: From Content Safety to Tool-Execution Governance in Agentic AI Systems**  
 > John Cheung  
 > College of Professional and Continuing Education
 
