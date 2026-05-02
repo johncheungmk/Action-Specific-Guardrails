@@ -250,29 +250,6 @@ The framework is relevant to:
 - email and communication agents
 - systems that combine RAG with tool execution
 
-## Repository Contents
-
-Suggested repository structure:
-
-```text
-.
-├── README.md
-├── paper/
-│   ├── AGF.pdf
-│   └── manuscript.docx
-├── examples/
-│   ├── action-policy.yaml
-│   ├── action-proposal-example.json
-│   └── blackboard-support-skill-policy.yaml
-├── schemas/
-│   ├── action-proposal.schema.json
-│   └── action-policy.schema.yaml
-└── evaluation/
-    ├── seeded-actions.md
-    ├── baselines.md
-    └── metrics.md
-```
-
 ## Suggested Citation
 
 ```bibtex
